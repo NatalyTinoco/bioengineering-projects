@@ -1,22 +1,22 @@
-# Proyectos académicos de Bioingeniería 🧬
+# Bioengineering Projects 🧬
 
-Proyectos y prácticas del pregrado en **Bioingeniería** (Universidad El Bosque): procesamiento de **bioseñales** (ECG / EMG / EEG), **Arduino**, **visión por computador** con Python/OpenCV y **prótesis mioeléctrica**.
+Undergraduate projects in **Bioengineering** (Universidad El Bosque): biosignal processing (ECG/EMG/EEG), **Arduino**, **Computer Vision** with Python/OpenCV, and a **myoelectric prosthesis**.
 
-## 📁 Contenido
+## 📁 Contents
 
-| Carpeta | Descripción |
+| Folder | Description |
 |---|---|
-| `Matlab/Procesamiento_Información_Biológica/` | Procesamiento de bioseñales: ECG, EMG, EEG, transformada de Fourier, detección QRS, filtros |
-| `Matlab/Protesis_mioelectrica/` | Control de prótesis de miembro superior con señales EMG |
-| `Matlab/redes_neuronales/` | Redes neuronales y regresión logística **implementadas desde cero** |
-| `Arduino/` | Sensores: EMG, pulsioxímetro, potenciómetro, servomotores |
-| `python/` | Visión por computador con OpenCV (filtros, procesamiento de imágenes) |
-| `biomecanica/` | Prácticas de biomecánica |
+| `Matlab/Procesamiento_Información_Biológica/` | Biosignal processing: ECG, EMG, EEG, Fourier transform, QRS detection, filters |
+| `Matlab/Protesis_mioelectrica/` | Upper-limb prosthesis control with EMG signals |
+| `Matlab/redes_neuronales/` | Neural networks and logistic regression **implemented from scratch** |
+| `Arduino/` | Sensors: EMG, pulse oximeter, potentiometer, servos |
+| `python/` | Computer Vision with OpenCV (filters, image processing) |
+| `biomecanica/` | Biomechanics labs |
 
 ## 🛠️ Stack
 
 MATLAB · Arduino · Python · OpenCV
 
-## 👩‍🔬 Contexto
+## 👩‍🔬 Context
 
-Material de formación en **Bioingeniería** — la base de mi perfil como Data Scientist aplicado a señales e imágenes biomédicas.
+My Bioengineering foundation — the base of my profile as a Data Scientist applied to biomedical signals and images.
